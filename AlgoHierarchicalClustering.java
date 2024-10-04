@@ -35,7 +35,6 @@ import DistanceCalculation.DistanceFunction;
  * The distance between two clusters is calculated as the distance between the
  * medians of the two clusters.
  * 
- * @author Philippe Fournier-Viger
  */
 
 public class AlgoHierarchicalClustering {
